@@ -1,4 +1,4 @@
-FROM node:lts-alpine
+FROM node:latest
 
 LABEL maintainer="Hoppscotch (support@hoppscotch.io)"
 
